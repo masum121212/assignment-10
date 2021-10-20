@@ -9,6 +9,9 @@ import Services from './Pages/ServiceItems/Services/Services';
 import Doctors from './Pages/DoctorPage/Doctors/Doctors';
 import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './Pages/LoginPage/PrivateRoute/PrivateRoute';
+import Footer from './Pages/Shared/Footer/Footer';
+import About from './Pages/About/About';
+import Contact from './Pages/Contact/Contact';
 
 function App() {
   return (
@@ -29,6 +32,12 @@ function App() {
           <Route path="/doctors">
             <Doctors></Doctors>
           </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
+          <Route path="/contact">
+            <Contact></Contact>
+          </Route>
           <Route path="/login">
             <Login></Login>
           </Route>
@@ -39,6 +48,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+          <Footer></Footer>
       </Router>
       </AuthProvider>
       {/* <Home></Home>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import banner_1 from '../../../Images/Banner/banner-1.jpg'
 import banner_2 from '../../../Images/Banner/banner-2.jpg'
 import banner_3 from '../../../Images/Banner/banner-3.jpg'
@@ -15,8 +16,8 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>First slide label</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <Link to="/services"><h4 className="btn btn-outline-info ">Booking Online</h4></Link>
+                    <p>What is an operational definition example? An operational definition is designed to model or represent a concept or theoretical definition, also known as a construct.</p>
                 </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -27,8 +28,9 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                    <h3>Second slide label</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <Link to="/services"><h4 className="btn btn-outline-info ">Booking Online</h4></Link>
+                    
+                    <p>An establishment or hospital department where outpatients are given medical treatment or advice, especially of a specialist nature.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -39,8 +41,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                    <h3>Third slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    <Link to="/services"><h4 className="btn btn-outline-info ">Booking Online</h4></Link>
+                    <p>Physiotherapy is treatment to restore, maintain, and make the most of a patient's mobility, function, and well-being. Physiotherapy helps through physical rehabilitation, injury prevention, and health and fitness. </p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

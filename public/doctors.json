@@ -1,63 +1,63 @@
 [
     {
-        "name":"a",
-        "expart":"bbb",
+        "name":"Dr. Jemse Watson",
+        "expart":"Neurologiest",
         "details":"cccc",
         "img":"https://i.ibb.co/jzwP4bQ/doctor-1.jpg"
     }
     ,
     {
-        "name":"b",
-        "expart":"bbb",
+        "name":"Dr. Neels Bore",
+        "expart":"Orthopedic",
         "details":"cccc",
         "img":"https://i.ibb.co/bKdytdr/doctor-2.jpg"
     }
     ,
     {
-        "name":"c",
-        "expart":"bbb",
+        "name":"Dr. Jelin Alis",
+        "expart":"Surgery Specialist",
         "details":"cccc",
         "img":"https://i.ibb.co/r2F0wcD/doctor-3.jpg"
     }
     ,
     {
-        "name":"d",
-        "expart":"bbb",
+        "name":"Dr. Kilva Alis",
+        "expart":"Medicine Expert",
         "details":"cccc",
         "img":"https://i.ibb.co/z7d8jnd/doctor-4.jpg"
     }
     ,
     {
-        "name":"e",
-        "expart":"bbb",
+        "name":"Dr. Anna Dority",
+        "expart":"Cardiologist",
         "details":"cccc",
         "img":"https://i.ibb.co/25BC89s/doctor-5.jpg"
     }
     ,
     {
-        "name":"f",
-        "expart":"bbb",
+        "name":"Dr. Preston Toki",
+        "expart":"Body Specialist",
         "details":"cccc",
         "img":"https://i.ibb.co/PcLfVTn/doctor-6.jpg"
     }
     ,
     {
-        "name":"g",
-        "expart":"bbb",
+        "name":"Dr. Leslie Marabella",
+        "expart":"Chield Specialist",
         "details":"cccc",
         "img":"https://i.ibb.co/nBw7w02/doctor-7.jpg"
     }
     ,
     {
-        "name":"h",
-        "expart":"bbb",
+        "name":"Dr. Zane Witherbee",
+        "expart":"Cardiologiest",
         "details":"cccc",
         "img":"https://i.ibb.co/3T9bzZq/doctor-8.jpg"
     }
     ,
     {
-        "name":"i",
-        "expart":"bbb",
+        "name":"Dr. Mildred Solla",
+        "expart":"Neuroloiest",
         "details":"cccc",
         "img":"https://i.ibb.co/mBHKjLV/doctor-9.jpg"
     }

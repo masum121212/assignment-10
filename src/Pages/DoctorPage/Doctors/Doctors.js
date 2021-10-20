@@ -11,8 +11,8 @@ const Doctors = () => {
         .then(data => setDoctors(data));
     } ,[]);
     return (
-        <div className="container">
-            <h2>Our Team</h2>
+        <div className="container mt-5">
+            <h1 className="text-info">Our Team</h1>
             <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-5">
                 {
                     doctors.map(doctor => <Doctor
