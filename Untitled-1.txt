@@ -1,0 +1,36 @@
+color : #0cb8b6
+https://corf-react.envytheme.com/
+
+services => 
+const services = [
+    {id:1, name:"Cancer Treatment", price:22, description: "Cancer treatment is the use of surgery, radiation, medications and other therapies to cure a cancer, shrink a cancer or stop the progression of a cancer. Many cancer treatments exist. Depending on your particular situation, you may receive one treatment or you may receive a combination of treatments.", img:'https://i.ibb.co/h7v6h8m/cancer-treatment.jpg'},
+    {id:2, name:"Cardiac Arrhythmia", price:22, description: "A heart arrhythmia (uh-RITH-me-uh) is an irregular heartbeat. Heart rhythm problems (heart arrhythmias) occur when the electrical signals that coordinate the heart's beats don't work properly. The faulty signaling causes the heart to beat too fast (tachycardia), too slow (bradycardia) or irregularly.", img:'https://i.ibb.co/kKyRtw9/cardiac-arrhythmia.jpg'},
+    {id:3, name:"Dermatology", price:22, description:"A dermatologist is a doctor that specializes in treating skin, hair, nail, and mucous membrane disorders and diseases. They can also address cosmetic issues, helping to revitalize the appearance of the skin, hair, and nails.", img:'https://i.ibb.co/xM15kYK/dermatology-treatment.jpg'},
+    {id:4, name:"ear nose and throat (ENT)", price:22, description:"Hearing and balance, swallowing and speech, breathing and sleep issues, allergies and sinuses, head and neck cancer, skin disorders, even facial plastic surgery are just some of the conditions that “ENT” (ear, nose, and throat) specialists treat.", img:'https://i.ibb.co/xg0xKv6/ear-nose-and-throat-ENT.png'},
+    {id:5, name:"Kidney Transport", price:22, description: "During kidney transplant surgery, the donor kidney is placed in your lower abdomen. Blood vessels of the new kidney are attached to blood vessels in the lower part of your abdomen, just above one of your legs. The new kidney's urine tube (ureter) is connected to your bladder", img:'https://i.ibb.co/wJ4gyXw/kidney-transparent.jpg'},
+    {id:6, name:"Liver Transport", price:22, description: "A liver transplant is a surgical procedure that removes a liver that no longer functions properly (liver failure) and replaces it with a healthy liver from a deceased donor or a portion of a healthy liver from a living donor", img:'https://i.ibb.co/dKfZ5gq/liver-treatment.jpg'},
+    {id:7, name:"Neurology", price:22, description: "A neurologist treats disorders of the central and peripheral nervous system, including the brain, spinal cord, cranial nerves, peripheral nerves, nerve roots, autonomic nervous system, neuromuscular junction, and muscles.", img:'https://i.ibb.co/gFhJ1FJ/neurology-care.jpg'},
+    {id:8, name:"Nutrition Care", price:22, description: "Nutritional care is defined as the basic duty to provide adequate and appropriate food and drinks to the patients. 2) On this basis to consider changes in the nutritional care necessary to ensure the satisfaction of the patients' nutritional requirements.", img:'https://i.ibb.co/7znVMtC/nutrition-care.jpg'},
+    {id:9, name:"Oncology", price:22, description: "Overview. Cancer treatment is the use of surgery, radiation, medications and other therapies to cure a cancer, shrink a cancer or stop the progression of a cancer. Many cancer treatments exist.", img:'https://i.ibb.co/W5Lz3Hp/oncology-treatment.jpg'},
+    {id:10, name:"Orthopedic Care", price:22, description:"Orthopedics is a medical specialty that deals with the treatment of bones and muscles. Orthopedic surgery is the branch of medicine concerned with diseases, injuries, and conditions of the musculoskeletal system relating to the body's muscles and skeleton.", img:'https://i.ibb.co/GJ9fvjZ/orthopedic-care.jpg'},
+    {id:11, name:"Physical Therapy Care", price:22, description: "Your doctor might suggest this type of treatment if you've had an injury or illness that makes it hard to do daily tasks. Physical therapy (PT) is care that aims to ease pain and help you function, move, and live better.", img:'https://i.ibb.co/jVgHRgM/physical-therapy.jpg'},
+    {id:12, name:"Sports Therapy Care", price:22, description: "Sports Therapy is a type of physical therapy that specifically focuses on preventing injury and on rehabilitation of the patient back to the best possible levels of function. Sports Therapy treatments are not just beneficial to the sports person,", img:'https://i.ibb.co/h81nnbp/sports-medicine.jpg'},
+    
+]
+
+
+
+
+
+
+const doctors = [
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/jzwP4bQ/doctor-1.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/bKdytdr/doctor-2.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/r2F0wcD/doctor-3.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/z7d8jnd/doctor-4.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/25BC89s/doctor-5.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/PcLfVTn/doctor-6.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/nBw7w02/doctor-7.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/3T9bzZq/doctor-8.jpg"},
+    { name : "aaa", expart: "bbb", details : "cccc" , img:"https://i.ibb.co/mBHKjLV/doctor-9.jpg"}
+]
