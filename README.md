@@ -14,5 +14,5 @@
 - orthopedics
 - child care
 
-### Netlify Link
+### Firebase Link
 - [Live Site](https://health-care-website-cd51d.firebaseapp.com/)
